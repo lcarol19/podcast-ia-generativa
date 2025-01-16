@@ -12,7 +12,7 @@
 
 
 
-# Projeto PODCAST Gerado por I.A.s
+Projeto PODCAST Gerado por I.A.s
 
  > ℹ️ **NOTE:** Este é um podcast criado durante o Bootcamp CAIXA - IA Generativa com Microsoft Copilot realizado na plataforma [DIO](https://dio.me)
 
