@@ -1,20 +1,16 @@
 <p align="center">
 <img 
-    src="./assets/podcast_leonardo.jpeg"
+    src="./podcast_leonardo.jpeg"
     width="300"
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="/ElevenLabs_Bill.mp3" controls title="Podcast Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna"></audio>
 </div>
 
 # PodCast 
-**Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna**
+Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna
 
 # Projeto PODCAST Gerado por I.A.s
 
