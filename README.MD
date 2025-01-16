@@ -10,7 +10,7 @@
 </div>
 
 # PodCast 
-Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna
+🎙Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna🎙
 
 # Projeto PODCAST Gerado por I.A.s
 
@@ -19,8 +19,7 @@ Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional aind
 
 Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="https://github.com/lcarol19/prompts-recipe-to-create-a-ebook/blob/main/Explorando-a-linguagem-COBOL.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-<a href="https://github.com/lcarol19/podcast-ia-generativa/blob/main/ElevenLabs_Bill.mp3" title="View PDF now"> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/lcarol19/podcast-ia-generativa/blob/main/ElevenLabs_Bill.mp3"> 🎧Clique aqui para ouvir</a>
 
 
 
