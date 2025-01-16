@@ -6,19 +6,6 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
     preview do podcast
 </p>
 
@@ -26,7 +13,8 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# PodCast: Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna
+# PodCast 
+**Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna**
 
 # Projeto PODCAST Gerado por I.A.s
 
