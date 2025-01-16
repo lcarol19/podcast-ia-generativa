@@ -115,23 +115,9 @@ Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de
 ChatGPT：
 
 |  Ação    |prompt                                                                                 
-| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| conteúdo | Crie um ebook detalhado sobre a linguagem Cobol com histórico resumido, explicação rica sobre a estrutura da linguagem e principais comandos. O público alvo é jovem universitário em tecnologia {REGRAS} Crie um nome para o ebook, Faça um breve resumo do assunto abordado, Explique de maneira simples e rica, com exemplos, Apresente um texto enxuto, Traga exemplo de códigos em contextos reais, Faça uma conclusão |
-
-Atue como um [roteirista] de podcast de tecnologia da geração Y e explique o que é CICS em Mainframe e sua utilidade para o público alvo tech da geração Z fazendo uma comparação com novas tecnologias
-O formato do roteiro deve conter 
-[Introdução]
-[Utilização]
-[Finalização]
-{Regras}
-No bloco [Introdução] o [roteirista] com descontração deve explicar o que é CICS em Mainframe e comparar com uma nova tecnologia
-No bloco [Utilização] o [roteirista] deve explicar para que serve e como funciona o CICS
-No bloco [Finalização] o [roteirista] fará a conclusão da fala sobre CICS
-O podcast deve ser apresentado por uma única pessoa
-{Regras Negativas}
-O podcast não pode ultrapassar cinco minutos
-Não use muito termos técnicos
-Não fale como um tiozão
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| conteúdo | Atue como um [roteirista] de podcast de tecnologia da geração Y e explique o que é CICS em Mainframe e sua utilidade para o público alvo tech da geração Z fazendo uma comparação com novas tecnologias
+O formato do roteiro deve conter [Introdução] [Utilização] [Finalização] {Regras} No bloco [Introdução] o [roteirista] com descontração deve explicar o que é CICS em Mainframe e comparar com uma nova tecnologia No bloco [Utilização] o [roteirista] deve explicar para que serve e como funciona o CICS No bloco [Finalização] o [roteirista] fará a conclusão da fala sobre CICS O podcast deve ser apresentado por uma única pessoa {Regras Negativas} O podcast não pode ultrapassar cinco minutos Não use muito termos técnicos Não fale como um tiozão
 
 
 Leonardo.ai：
