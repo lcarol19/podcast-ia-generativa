@@ -10,8 +10,8 @@
 </div>
 
 # PodCast 
-🎙Do Mainframe ao TikTok: O Papel do CICS hoje🎙
-Como a tecnologia tradicional ainda sustenta a era digital moderna
+#🎙Do Mainframe ao TikTok: O Papel do CICS hoje🎙
+# Como a tecnologia tradicional ainda sustenta a era digital moderna
 
 # Projeto PODCAST Gerado por I.A.s
 
