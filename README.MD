@@ -1,3 +1,5 @@
+# PodCast 
+
 <p align="center">
 <img 
     src="./podcast_leonardo.jpeg"
@@ -5,11 +7,6 @@
 />
 </p>
 
-<div align="center">
-    <audio src="/ElevenLabs_Bill.mp3" controls title="Podcast Do Mainframe ao TikTok: O Papel do CICS hoje: Como a tecnologia tradicional ainda sustenta a era digital moderna"></audio>
-</div>
-
-# PodCast 
 # Do Mainframe ao TikTok: O Papel do CICS hoje🎙
 # Como a tecnologia tradicional ainda sustenta a era digital moderna
 
