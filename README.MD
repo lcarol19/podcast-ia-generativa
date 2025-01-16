@@ -118,29 +118,24 @@ ChatGPT：
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | conteúdo | Atue como um [roteirista] de podcast de tecnologia da geração Y e explique o que é CICS em Mainframe e sua utilidade para o público alvo tech da geração Z fazendo uma comparação com novas tecnologias O formato do roteiro deve conter [Introdução] [Utilização] [Finalização] {Regras} No bloco [Introdução] o [roteirista] com descontração deve explicar o que é CICS em Mainframe e comparar com uma nova tecnologia No bloco [Utilização] o [roteirista] deve explicar para que serve e como funciona o CICS No bloco [Finalização] o [roteirista] fará a conclusão da fala sobre CICS O podcast deve ser apresentado por uma única pessoa {Regras Negativas} O podcast não pode ultrapassar cinco minutos Não use muito termos técnicos Não fale como um tiozão
 
+ChatGPT：
+
+|  Ação    |prompt                                                                            |     
+| :------: | ---------------------------------------------------------------------------------|
+|  título  | Me dê 5 sugestões de título e subtítulo do podcast baseado no texto gerado acima |
 
 Leonardo.ai：
 
-|  Ação  | prompt                                                                                                                                                                          |
-| :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| imagem | Crie uma imagem para um ebook sobre a linguagem de programação Cobol com público alvo jovens universitários de tecnologia. A imagem deve conter o desenho de um terminal 32x70. |
+|  Ação  | prompt                                                                                       |
+| :----: | -------------------------------------------------------------------------------------------- |
+| imagem | Crie uma imagem para um podcast que explica mainframe para o público alvo tech da geração Z. |
 
-Gamma.app：
 
-|  Ação  | prompt                                                                                                                                                            |
-| :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| imagem | Um dinossauro estilizado em tons de cinza elegante, representando a linguagem de programação COBOL e sua história de desenvolvimento para aplicações de negócios. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagem do computador gerada via Leonardo.ai
-- Imagem logo dinossauro via Gamma.app
-- Criação do Ebook via Gamma.app
-- Edição do Ebook no PowerPoint
+- Imagem gerada via Leonardo.ai
+- Áudio gerado no Elevenlabs
 
-<p>
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
