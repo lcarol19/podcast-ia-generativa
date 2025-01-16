@@ -92,6 +92,68 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
+
+# Projeto PODCAST Gerado por I.A.s
+
+
+ > ℹ️ **NOTE:** Este é um podcast criado durante o Bootcamp CAIXA - IA Generativa com Microsoft Copilot realizado na plataforma [DIO](https://dio.me)
+
+Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+
+<a href="https://github.com/lcarol19/prompts-recipe-to-create-a-ebook/blob/main/Explorando-a-linguagem-COBOL.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [Leonardo.ai](https://app.leonardo.ai//) 
+- [Elevenlabs](https://elevenlabs.io/)
+
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|  Ação    |prompt                                                                                 
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| conteúdo | Crie um ebook detalhado sobre a linguagem Cobol com histórico resumido, explicação rica sobre a estrutura da linguagem e principais comandos. O público alvo é jovem universitário em tecnologia {REGRAS} Crie um nome para o ebook, Faça um breve resumo do assunto abordado, Explique de maneira simples e rica, com exemplos, Apresente um texto enxuto, Traga exemplo de códigos em contextos reais, Faça uma conclusão |
+
+Atue como um [roteirista] de podcast de tecnologia da geração Y e explique o que é CICS em Mainframe e sua utilidade para o público alvo tech da geração Z fazendo uma comparação com novas tecnologias
+O formato do roteiro deve conter 
+[Introdução]
+[Utilização]
+[Finalização]
+{Regras}
+No bloco [Introdução] o [roteirista] com descontração deve explicar o que é CICS em Mainframe e comparar com uma nova tecnologia
+No bloco [Utilização] o [roteirista] deve explicar para que serve e como funciona o CICS
+No bloco [Finalização] o [roteirista] fará a conclusão da fala sobre CICS
+O podcast deve ser apresentado por uma única pessoa
+{Regras Negativas}
+O podcast não pode ultrapassar cinco minutos
+Não use muito termos técnicos
+Não fale como um tiozão
+
+
+Leonardo.ai：
+
+|  Ação  | prompt                                                                                                                                                                          |
+| :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| imagem | Crie uma imagem para um ebook sobre a linguagem de programação Cobol com público alvo jovens universitários de tecnologia. A imagem deve conter o desenho de um terminal 32x70. |
+
+Gamma.app：
+
+|  Ação  | prompt                                                                                                                                                            |
+| :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| imagem | Um dinossauro estilizado em tons de cinza elegante, representando a linguagem de programação COBOL e sua história de desenvolvimento para aplicações de negócios. |
+
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagem do computador gerada via Leonardo.ai
+- Imagem logo dinossauro via Gamma.app
+- Criação do Ebook via Gamma.app
+- Edição do Ebook no PowerPoint
+
 <p>
 
 ---
